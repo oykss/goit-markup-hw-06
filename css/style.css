@@ -645,7 +645,7 @@ input[type="checkbox"]:checked+.privacy-policy-label>.check-mark-wrap {
     background-color: #404bbf;
 }
 
-/*! Modal-menu */
+/*!-------- Modal-menu --------*/
 .modal-menu {
     position: fixed;
     top: 0;
@@ -1059,8 +1059,6 @@ input[type="checkbox"]:checked+.privacy-policy-label>.check-mark-wrap {
     .team-list-item {
         flex-basis: calc((100% - 72px) / 4);
     }
-
-    /*--------Section-4--------*/
 
     /*-------- Footer --------*/
     .footer {
