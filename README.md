@@ -35,3 +35,8 @@
 - **C6:** Якщо додати на елемент меню клас `is-open`, воно з'являється.
 
 # [WebStudio](https://oykss.github.io/goit-markup-hw-06/)
+| Viewi | Mobile | Tablet | Laptop |
+| --- | --- | --- |--- |
+| Page | ![alt text](https://i.imgur.com/Na8o6Tf.png) |  ![alt text](https://i.imgur.com/EOlJeN0.jpeg)  | ![alt text](https://i.imgur.com/Q0pUk6u.jpeg)  |
+| Modal | ![alt text](https://i.imgur.com/s8ESbxT.png) |  ![alt text](https://i.imgur.com/CtPZBN1.png)  | ![alt text](https://i.imgur.com/J9WoLOg.png)  |
+| Modal menu for mobile | ![alt text](https://i.imgur.com/86LxrGV.png) | - | - |
