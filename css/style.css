@@ -743,7 +743,7 @@ input[type="checkbox"]:checked+.privacy-policy-label>.check-mark-wrap {
     }
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .list {
         flex-direction: column;
     }
